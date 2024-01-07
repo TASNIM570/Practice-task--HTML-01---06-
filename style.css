@@ -1,0 +1,20 @@
+img{
+    height: 400px;
+    width: 350px;
+}
+
+#image{
+   margin-left: 20px;
+}
+
+#footer{
+    height: 57px;
+    width: 80%;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.733);
+    margin-left: 10%;
+    margin-top: 100px;
+}
+
